@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-8.2.2.jre8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SABproj/lib/mssql-jdbc-8.2.2.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SABproj/lib/SAB_projekat_1920.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
